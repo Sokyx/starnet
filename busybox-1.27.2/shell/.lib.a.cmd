@@ -1,0 +1,1 @@
+cmd_shell/lib.a := rm -f shell/lib.a; /workspace_disk2/xsq_workspace/sdk_linux_rv1126_rv1109/buildroot/output/rockchip_g710s_rv1126_rv1109/host/bin/arm-linux-gnueabihf-ar  rcs shell/lib.a shell/ash.o shell/ash_ptr_hack.o shell/math.o shell/random.o shell/shell_common.o

@@ -1,0 +1,1 @@
+cmd_archival/lib.a := rm -f archival/lib.a; /workspace_disk2/xsq_workspace/sdk_linux_rv1126_rv1109/buildroot/output/rockchip_g710s_rv1126_rv1109/host/bin/arm-linux-gnueabihf-ar  rcs archival/lib.a archival/ar.o archival/bbunzip.o archival/cpio.o archival/gzip.o archival/tar.o archival/unzip.o

@@ -1,0 +1,1 @@
+cmd_networking/built-in.o :=  rm -f networking/built-in.o; /workspace_disk2/xsq_workspace/sdk_linux_rv1126_rv1109/buildroot/output/rockchip_g710s_rv1126_rv1109/host/bin/arm-linux-gnueabihf-ar rcs networking/built-in.o
